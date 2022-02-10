@@ -12,7 +12,7 @@ require_once 'config/connect.php';
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Products</title>
+    <title>CRUD</title>
 </head>
 <style>
     th, td {
